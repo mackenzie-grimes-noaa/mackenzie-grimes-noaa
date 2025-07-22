@@ -1,16 +1,18 @@
 ## Hi there 👋
 
 <!--
-**mackenzie-grimes-noaa/mackenzie-grimes-noaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+### Who I Am
+Mackenzie Grimes - NOAA Affiliate
+
+- Title: Research Associate III
+
+- [Cooperative Institute for Research in the Atmosphere (CIRA)](cira.colostate.edu)
+
+- Stationed at the [National Oceanic and Atmospheric Administration](noaa.gov)'s [Global Systems Laboratory](gsl.noaa.gov)
+
+### What I Do
+Develop cloud-native services and web tools for the Weather Informatics and Visualization Division, to help the National Weather Service and the public make impact-based decisions to protect lives and property.
+
+Check out one of our projects: [Impact-based Decision Support Service Engine (IDSSE)](https://sites.gsl.noaa.gov/idss)
