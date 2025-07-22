@@ -13,6 +13,6 @@ Mackenzie Grimes - NOAA Affiliate
 - Stationed at the [National Oceanic and Atmospheric Administration (NOAA)](https://noaa.gov)'s [Global Systems Laboratory](https://gsl.noaa.gov)
 
 ### What I Do
-Develop cloud-native services and web tools for the Weather Informatics and Visualization Division, to help the National Weather Service and the public make impact-based decisions to protect lives and property.
+Develop cloud-native services and web tools for the Weather Informatics and Visualization Division, to help the National Weather Service and the public make impact-based decisions about the weather and help protect lives and property.
 
 Check out one of our projects: [Impact-based Decision Support Service Engine (IDSSE)](https://sites.gsl.noaa.gov/idss)
