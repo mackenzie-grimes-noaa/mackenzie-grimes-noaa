@@ -8,9 +8,9 @@ Mackenzie Grimes - NOAA Affiliate
 
 - Title: Research Associate III
 
-- [Cooperative Institute for Research in the Atmosphere (CIRA)](cira.colostate.edu)
+- [Cooperative Institute for Research in the Atmosphere (CIRA)](https://www.cira.colostate.edu)
 
-- Stationed at the [National Oceanic and Atmospheric Administration](noaa.gov)'s [Global Systems Laboratory](gsl.noaa.gov)
+- Stationed at the [National Oceanic and Atmospheric Administration (NOAA)](https://noaa.gov)'s [Global Systems Laboratory](https://gsl.noaa.gov)
 
 ### What I Do
 Develop cloud-native services and web tools for the Weather Informatics and Visualization Division, to help the National Weather Service and the public make impact-based decisions to protect lives and property.
