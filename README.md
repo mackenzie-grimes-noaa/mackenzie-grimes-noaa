@@ -17,4 +17,4 @@ Develop cloud-native services and web tools for the Weather Informatics and Visu
 
 Check out some of our projects: 
 - [Impact-based Decision Support Service Engine (IDSSE)](https://sites.gsl.noaa.gov/idss/)
-- [Dynamic Ensemble-based Scenarios for IDSS (DESI)](https:/sites.gsl.noaa.gov/desi/?dset=windNinja-Spot)
+- [Dynamic Ensemble-based Scenarios for IDSS (DESI)](https://sites.gsl.noaa.gov/desi/?dset=windNinja-Spot)
